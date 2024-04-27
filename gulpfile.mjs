@@ -16,7 +16,7 @@ gulp.task("server", function () {
         },
         online: true
     });
-    gulp.watch("src/*.html").on("change", browserSync.reload);
+    gulp.watch("src/*.html").on("changc:\Users\Guest\Desktop\kill me\Projects\Portfolio git\portfolioe", browserSync.reload);
 });
 
 gulp.task("styles", function () {
