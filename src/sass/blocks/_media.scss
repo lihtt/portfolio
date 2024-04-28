@@ -158,6 +158,7 @@
             &-item {
                 grid-template-columns: 40px 200px;
                 column-gap: 20px;
+                justify-content: center;
             }
         }
         .price {
@@ -216,6 +217,9 @@
             grid-template: 45px 190px 45px/repeat(2, 260px);
         }
     }   
+    .pageup {
+        
+    }
 }
 
 @media (max-width: 576px) {
